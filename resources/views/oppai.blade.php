@@ -11,7 +11,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
-        <link rel="stylesheet" href="{{ asset('style/oppai-defo.css') }}">
+        <link rel="stylesheet" rel="stylesheet" href="{{ asset('style/oppai-defo.css') }}">
     </head>
     <body>
         <div class="flex-center position-ref full-height">
