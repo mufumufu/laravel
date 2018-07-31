@@ -43,6 +43,8 @@
             }
 
             .content {
+                height: 100%;
+                overflow:scroll;
                 text-align: center;
             }
 
