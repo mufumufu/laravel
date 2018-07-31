@@ -13,8 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                overflow: scroll;
-                -webkit-overflow-scrolling: touch;
+                scroll-behavior:smooth;
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
