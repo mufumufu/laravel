@@ -15,6 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+//本来この引数のfunction()は/http/controllersに記述する
 Route::get('/oppai', function(){
     return view('oppai');
 });
+
+Route::get('/helo', 'Hellocontroller@index' );
